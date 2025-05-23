@@ -41,7 +41,7 @@ Each folder includes:
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.8+
 - Jupyter Notebook / Google Colab
